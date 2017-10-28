@@ -1,2 +1,4 @@
 dist
-loader/define-loader.js
+.idea/
+node_modules/
+
